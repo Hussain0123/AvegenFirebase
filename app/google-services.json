@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "279051820861",
+    "firebase_url": "https://avegenfirebasr.firebaseio.com",
+    "project_id": "avegenfirebasr",
+    "storage_bucket": "avegenfirebasr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279051820861:android:3ceb34f77ba43dd7",
+        "android_client_info": {
+          "package_name": "com.sheikhhussain.www.avegenfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279051820861-e6m31anflve3q3dqjr1qpde2unhlmfpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxrRENLdIB1_EmVo5g7q8G7ceSIctRik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
